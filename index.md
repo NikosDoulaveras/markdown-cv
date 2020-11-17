@@ -12,7 +12,7 @@ Occupation: IT and Privacy Project Consultant
 -----------------------------------
 
 
->   ### <span style="color:red"> ***Seamless for IOT can be observable in terms of progress.*** </span>
+>   <span style="color:red"> ***Seamless for IOT can be observable in terms of progress.*** </span>
 
 
 

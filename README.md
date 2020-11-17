@@ -1,5 +1,5 @@
 
-<span class="screen"><a href="{{ mycvprint }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF version</a></span>
+<span class="screen"><a href="{{ mycvprint.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF</a></span>
 -----------------------------------
 
 
@@ -79,7 +79,7 @@ Athens, `2000`
 • GDPR Certification DPO 
 
  
- # Languages
+# Languages
 ----------
         
 • English, Advanced

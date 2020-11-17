@@ -1,7 +1,7 @@
 
 <span class="screen"><a href="{{ markdown-cv/mycvprint.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF</a></span>
 
-
+a id="raw-url" href="https://github.com/niveras/markdown-cv/edit/master/mycvprint.pdf">Download CV</a>
 -----------------------------------
 
 

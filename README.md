@@ -1,5 +1,5 @@
 
-<a id="raw-url" href="https://github.com/niveras/markdown-cv/edit/master/mycvprint.pdf">Download CV</a>
+<a id="raw-url" href="https://github.com/niveras/markdown-cv/edit/master/mycvprint.pdf">Download PDF</a>
 -----------------------------------
 
 

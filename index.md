@@ -80,7 +80,7 @@ Athens, `2000`
 • GDPR Certification DPO 
 
  
- # Languages
+# Languages
 ----------
         
 • English, Advanced
@@ -97,7 +97,8 @@ Athens, `2000`
 -Security as a <span style="color:red">priviledge</span>
 -HCI advancements  
 
-
+#
+----------
 
 |       Accomplishments      |       Hobbies        |    Web Development   | 
 |----------------------------|:--------------------:|:--------------------:|

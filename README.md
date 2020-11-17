@@ -1,9 +1,7 @@
 
-<span class="screen"><a href="{{  }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF</a></span>
+<span class="screen"><a href="{{ markdown-cv/mycvprint.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF</a></span>
 
-{% raw %}
-<button onclick="window.open('mycvprint.pdf')">Download PDF</button>
-{% endraw %}
+
 -----------------------------------
 
 

@@ -1,5 +1,6 @@
 
-
+<span class="screen"><a href="{{ mycvprint }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF version</a></span>
+-----------------------------------
 
 
 ![Image of Nikos](PB250057l2l.jpg "Nikos Doulaveras")
@@ -9,8 +10,7 @@ Nikos Doulaveras
 
 Occupation: IT and Privacy Project Consultant 
 -----------------------------------
-<span class="screen"><a href="{{ mycvprint }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF version</a></span>
------------------------------------
+
 >   <span style="color:red"> ***Seamless for IOT can be observable in terms of progress.*** </span>
 
 

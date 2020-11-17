@@ -10,8 +10,8 @@ Nikos Doulaveras
 
 Occupation: IT and Privacy Project Consultant 
 -----------------------------------
-
-
+<span class="screen"><a href="{{ pdfFileName }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF version</a></span>
+-----------------------------------
 >   <span style="color:red"> ***Seamless for IOT can be observable in terms of progress.*** </span>
 
 

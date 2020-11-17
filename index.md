@@ -97,7 +97,7 @@ Athens, `2000`
 -Security as a <span style="color:red">priviledge</span>
 -HCI advancements  
 
-#
+# Table of extras
 ----------
 
 |       Accomplishments      |       Hobbies        |    Web Development   | 

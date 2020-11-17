@@ -1,91 +1,112 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/PB250057l2l.jpg) 
 
 
-### Research interests
+![Image of Nikos](PB250057l2l.jpg "Nikos Doulaveras")
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Nikos Doulaveras
+============
+
+Occupation: IT and Privacy Project Consultant 
+-----------------------------------
 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+>   ### <span style="color:red"> ***Seamless for IOT can be observable in terms of progress.*** </span>
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+|  __Nationality__  |             __Address__          |          __Email__          |      __Phone__    |    __Linkedin__    |        
+|-------------------|----------------------------------|:---------------------------:|:-----------------:|:------------------:|
+|      Greek       | 1 Hippocratous Str. Athens 11472 | nikos.doulaveras@gmail.com  |   +30 6947423178  |   nikosdoulaveras  | 
 
 
 
-## Publications
+# Experience
+----------
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**IT and Privacy Project Consultant:**
+* Master S.A.
+Neo Heracleion 
+`2018-06 - Currently`
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+**Communication and Digital Marketing:**
+* Freelancer 
+Athens 
+`2010-11 - 2018-05`
 
 
+**Research Executive:**            
+* MRB Hellas SA  
+Ampelokipoi, Athens 
+`2007-07 - 2010-10`
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+**Account Executive Advertising Projects:**                
+* Spot JWT Athens  
+Marousi- Athens 
+`2004-05 - 2016-12`
 
+            
+# Education
+----------
+**Computer Science:**           
+* Hellenic Open University  
+Patras, `2017`
+
+
+**Political Communication and New Technologies:**               
+* Communication and Mass Media- MA- Postgraduate 
+National and Kapoditristrian University of Athens/ MA Program 
+Athens, `2003`
+
+
+**Communication and Mass Media:**               
+* Ptychion  
+National and Kapodistrian University of Athens 
+Athens, `2000`
+
+
+# Skills
+----------
+       
+• CMS development (Wordpress, Joomla)
+            
+• Arduino automation
+            
+• project management
+            
+• GDPR Certification DPO 
+
+ 
+ # Languages
+----------
+        
+• English, Advanced
+            
+• German, Advanced 
+
+
+# Objectives 
+----------
+       
+-Present proposals that are actionable
+-Project management
+-GDPR readiness
+-Security as a <span style="color:red">priviledge</span>
+-HCI advancements  
+
+
+
+|       Accomplishments      |       Hobbies        |    Web Development   | 
+|----------------------------|:--------------------:|:--------------------:|
+| ERMIS AWARDS 2004 HEINEKEN |       trekking       |        joomla        | 
+|         EFFIE 2005         |       arduino        |          wp          |
+| 1rst Social Media Study IE |        guitar        |   custom templates   |
+
+
+[Available in html click **here**](https://nikosdoulaveras.github.io/MyCV/)
+
+* This is a test project
 

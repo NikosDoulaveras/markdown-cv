@@ -105,7 +105,7 @@ Athens, `2000`
 | 1rst Social Media Study IE |        guitar        |   custom templates   |
 
 
-[Available in html click **here**](https://nikosdoulaveras.github.io/MyCV/)
+[Available in html click **here**](https://nikosdoulaveras.github.io/html-cv.html)
 
 * This is a test project
 

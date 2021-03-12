@@ -109,3 +109,6 @@ Athens, `2000`
 
 * This is a test project
 
+    <!-- Start cookieyes banner -->
+    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/48592414d100addb6bc22bc8.js"></script>
+    <!-- End cookieyes banner --> 
